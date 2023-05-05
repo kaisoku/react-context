@@ -24,3 +24,8 @@
     border-radius: 6px;
     border: 1px solid #ccc;
   }
+
+  .control.invalid input {
+    border-color: red;
+    background: #fbdada;
+  }
